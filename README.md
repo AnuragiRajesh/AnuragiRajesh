@@ -1,6 +1,6 @@
-<h1 align="center">
+<h1 align="center" size="2rem">
 <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" />
-hey! there, I'm Rajesh Anuragi
+Hey! There, I'm Rajesh Anuragi
 <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" />
 </h1>
 
